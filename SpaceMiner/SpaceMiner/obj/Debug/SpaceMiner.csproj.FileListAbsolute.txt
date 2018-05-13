@@ -1,0 +1,13 @@
+C:\Users\barse\Desktop\SpaceMiner\SpaceMiner\bin\Debug\SpaceMiner.exe.config
+C:\Users\barse\Desktop\SpaceMiner\SpaceMiner\bin\Debug\SpaceMiner.exe
+C:\Users\barse\Desktop\SpaceMiner\SpaceMiner\bin\Debug\SpaceMiner.pdb
+C:\Users\barse\Desktop\SpaceMiner\SpaceMiner\obj\Debug\SpaceMiner.csprojResolveAssemblyReference.cache
+C:\Users\barse\Desktop\SpaceMiner\SpaceMiner\obj\Debug\SpaceMiner.Form1.resources
+C:\Users\barse\Desktop\SpaceMiner\SpaceMiner\obj\Debug\SpaceMiner.Form2.resources
+C:\Users\barse\Desktop\SpaceMiner\SpaceMiner\obj\Debug\SpaceMiner.Form3.resources
+C:\Users\barse\Desktop\SpaceMiner\SpaceMiner\obj\Debug\SpaceMiner.Form4.resources
+C:\Users\barse\Desktop\SpaceMiner\SpaceMiner\obj\Debug\SpaceMiner.Form5.resources
+C:\Users\barse\Desktop\SpaceMiner\SpaceMiner\obj\Debug\SpaceMiner.Properties.Resources.resources
+C:\Users\barse\Desktop\SpaceMiner\SpaceMiner\obj\Debug\SpaceMiner.csproj.GenerateResource.Cache
+C:\Users\barse\Desktop\SpaceMiner\SpaceMiner\obj\Debug\SpaceMiner.exe
+C:\Users\barse\Desktop\SpaceMiner\SpaceMiner\obj\Debug\SpaceMiner.pdb
